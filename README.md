@@ -6,4 +6,5 @@ This course provides a broad introduction to machine learning, datamining, and s
 
 ## Certificate
 
-https://coursera.org/share/563c9a355360426941f2d27732ca3b31
+[Verified Certificate](https://coursera.org/share/563c9a355360426941f2d27732ca3b31)
+
